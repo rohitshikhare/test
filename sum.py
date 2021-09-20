@@ -1,3 +1,8 @@
+def sum(x,y): #formal parameters
+  return x+y
+
 a = int(input())
 b = int(input())
-print("Sum is ",a+b)
+
+res = sum(a,b) #actual parameters
+print(res)
