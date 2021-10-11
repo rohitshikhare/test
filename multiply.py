@@ -6,3 +6,5 @@ b = int(input())
 
 res = mul(a,b) #actual parameters
 print(res)
+
+print('Aded by ashish')
