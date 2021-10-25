@@ -1,5 +1,5 @@
 def div(x,y): #formal parameters
-  return x/y
+  return x//y
 
 a = int(input())
 b = int(input())
