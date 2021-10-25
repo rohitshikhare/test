@@ -5,5 +5,5 @@ a = int(input())
 b = int(input())
 c= int(input())
 
-res = sum(a,b,c) #actual parameters
+res = sum(a, b, c) #actual parameters
 print(res)
